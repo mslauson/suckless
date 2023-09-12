@@ -1,0 +1,3 @@
+[submodule "dwm"]
+	path = dwm
+	url = https://gitea.slauson.io/mslauson/dwm
